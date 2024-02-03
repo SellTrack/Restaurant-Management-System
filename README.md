@@ -27,6 +27,7 @@
   :white_check_mark: Password Check
 
   :white_check_mark: Profile Photo adding editing and viewing
+  
 
  # :sparkles: What i learned from this project
   
