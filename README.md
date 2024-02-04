@@ -1,4 +1,5 @@
  # Restourant Management System
+  A project about threads and synchronization.
 
  # :question: What is this project
  This is Restourant Management project for my university developed with my friend Emre Yılmaz.
@@ -7,10 +8,10 @@
  This project developed using C#.
 
  # :question: What is required for run the website
-
+  C # must be installed to computer.
 
  # :books: About project
-  we have been asked to do the fitness website. There will be client and trainer realationship that can track and manage their nutrition and exercise routines. Because i have a few experience before in .NET, we thought it will be better we do this project also in .NET.
+  we have been asked to do the Restourant management system. There will be a threads for each waiter, chef and cashier. My friend had some background on C#, so we decided to do in C# language.
 
   Here is the list of what we achieved in this project
 
@@ -29,7 +30,6 @@
   :white_check_mark: Profile Photo adding editing and viewing
   
 
-  
 
  # :sparkles: What i learned from this project
   
