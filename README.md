@@ -15,22 +15,12 @@
 
   Here is the list of what we achieved in this project
 
-  :white_check_mark: 
+  :white_check_mark: What is threads and how to use them
 
-  :white_check_mark: Login system
+  :white_check_mark: working with multiple threads and managing them
 
-  :white_check_mark: Webpage customization
-
-  :white_check_mark: CSS editing
-
-  :white_check_mark: Role based system
-
-  :white_check_mark: Password Check
-
-  :white_check_mark: Profile Photo adding editing and viewing
+  :white_check_mark: Logging activities to text file
   
-
-
  # :sparkles: What i learned from this project
   
   I learned basics of Threads
