@@ -37,8 +37,8 @@
 
   I learned Multithreading, and optimization
 
-  I learned Creating a database and how to using it
+  I learned synchronizing the threads
 
 # :paperclip: Documents
 
-[Proje Documentation (PDF)](https://github.com/SellTrack/Fitlife/blob/main/AlphaSales/media/yazlab2.pdf)
+[Proje Documentation (PDF)](https://github.com/SellTrack/Restaurant-Management-System/blob/main/Restourant%20Management%20System/Yazlab%2023-24%20Fall%20v1.pdf)
