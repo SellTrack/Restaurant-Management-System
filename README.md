@@ -7,7 +7,7 @@
  # :question: Which language and libraries used for this project
  This project developed using C#.
 
- # :question: What is required for run the website
+ # :question: What is required for run the program
   C # must be installed to computer.
 
  # :books: About project
